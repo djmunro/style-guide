@@ -1,7 +1,7 @@
-Davids Style Guide
+David's Style Guide
 ==================
 
-These style guides aim to document Trey Hunner's preferred style for writing Python code and more.
+These style guides aim to document David Munro's preferred style for writing Python code and more.
 
 
 Background
