@@ -7,9 +7,7 @@ These style guides aim to document Trey Hunner's preferred style for writing Pyt
 Background
 ----------
 
-During my [Readability Counts][] talk at DjangoCon 2016, I recommended that everyone embrace and document their own opinionated code style by creating a style guide for each project they create.
-
-[At the end of this talk][markus question], a friend (friends always ask the hardest questions) asked whether I had a recommendation for a good code style guide and I said no.
+A friend (friends always ask the hardest questions) asked whether I had a recommendation for a good code style guide and I said no.
 
 This repository is my effort at working toward my own default code style guide that I actually admire.
 
