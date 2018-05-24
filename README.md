@@ -1,4 +1,4 @@
-Trey's Style Guide
+Davids Style Guide
 ==================
 
 These style guides aim to document Trey Hunner's preferred style for writing Python code and more.
@@ -22,7 +22,6 @@ Goals
 
 Possible future goals:
 
-- [ ] Create a Django style guide
 - [ ] Create a JavaScript style guide
 
 
@@ -32,6 +31,4 @@ License
 The contents of this repository are released into the Public Domain.  You're welcome to steal this work without credit if you so desire.  I would greatly appreciate a [tweet][]/email letting me know what you think of this guide and how you're using it.  I'd love to hear how you're using this, but please don't feel obligated to credit me or contact me. 😸
 
 
-[tweet]: http://twitter.com/treyhunner
-[readability counts]: https://www.youtube.com/watch?v=NvkC5UBJqeY
-[markus question]: https://www.youtube.com/watch?v=NvkC5UBJqeY&feature=youtu.be&t=22m7s
+[tweet]: http://twitter.com/dmunro
